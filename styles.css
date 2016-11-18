@@ -1,0 +1,44 @@
+
+body {
+	width:80%;
+	text-align: center;
+}
+h1 {
+	font-family: 'Gentium Basic', serif;
+}
+
+
+
+.article {
+	width: 30%;
+	display: inline-block;
+	border: 1px solid lightblue;
+	text-align: center;
+	margin: 1px 1px;
+	padding: 0;
+	font-family: 'Raleway', sans-serif;
+	line-height: 100%;
+	
+}
+.available {
+	background-color: #000;
+	color: yellow;
+	text-decoration: blink;
+	text-align: center;
+}
+h2 {
+	text-decoration: underline;
+}
+h4,p {
+	text-align: left;
+
+}
+.small {
+	font-size: x-small;
+}
+h4 {
+	font-weight: 200%;
+}
+p {
+	font-size: 15px;
+}
